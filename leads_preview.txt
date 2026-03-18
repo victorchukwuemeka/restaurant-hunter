@@ -1,0 +1,45 @@
+╭────┬────────────┬──────────────────────────┬────────────────┬────────────┬──────────────────────────────────┬───────────────╮
+│    │ priority   │ name                     │          phone │ types      │ address                          │ status        │
+├────┼────────────┼──────────────────────────┼────────────────┼────────────┼──────────────────────────────────┼───────────────┤
+│  1 │ ⚡          │ Dreamfield Juice & Salad │ +2349060007683 │ Café       │ 17-19, Allen Avenue, Ikeja       │ Not Contacted │
+│    │ Warm       │ Bar                      │                │            │                                  │               │
+│  2 │ ⚡          │ Amala Sky Lagos          │ +2348077776962 │ Restaurant │ Beside Fidelity Bank, Admiralty  │ Not Contacted │
+│    │ Warm       │                          │                │            │ Way, LEKKI                       │               │
+│  3 │ ⚡          │ Spice And Grill          │ +2348036395555 │ Restaurant │ 1, Olabisi Street, Ilupeju,      │ Not Contacted │
+│    │ Warm       │                          │                │            │ Lagos                            │               │
+│  4 │ ⚡          │ Chow Village             │ +2349135757038 │ Restaurant │ Km 48, Lekki - Epe Expy,         │ Not Contacted │
+│    │ Warm       │                          │                │            │ opposite Blenco Supermarket,     │               │
+│    │            │                          │                │            │ Eti-Osa, Sangotedo, Lagos        │               │
+│  5 │ ⚡          │ Bokku Mart               │ +2349164867254 │ Bakery     │ 34, Abule Okuta Road, Lagos      │ Not Contacted │
+│    │ Warm       │                          │                │            │                                  │               │
+│  6 │ ⚡          │ Kachi’S Kitchen          │ +2349126000026 │ Restaurant │ 1E, Babatope Bejide Crescent,    │ Not Contacted │
+│    │ Warm       │                          │                │            │ lekki                            │               │
+│  7 │ ⚡          │ The Mayfair Lagos        │ +2349135576891 │ Restaurant │ 19B, Sinari Daranijo Street,     │ Not Contacted │
+│    │ Warm       │                          │                │            │ Lagos                            │               │
+│  8 │ ⚡          │ The Mania House          │ +2348144258984 │ Restaurant │ 25, Gafari Animashaun Street,    │ Not Contacted │
+│    │ Warm       │                          │                │            │ Lagos                            │               │
+│  9 │ ⚡          │ Purple Jasmine Cafe      │ +2348148247243 │ Café       │ 97, Awolowo Road, Lagos          │ Not Contacted │
+│    │ Warm       │                          │                │            │                                  │               │
+│ 10 │ ⚡          │ Leila Restaurant Lagos   │ +2348035791444 │ Restaurant │ 864a Bishop Aboyade St, Victoria │ Not Contacted │
+│    │ Warm       │                          │                │            │ Island, Lagos 106104, Lagos      │               │
+│ 11 │ ⚡          │ Ghana High               │ +2348166399027 │ Restaurant │ 34, McCarthy Street, Lagos       │ Not Contacted │
+│    │ Warm       │                          │                │            │                                  │               │
+│ 12 │ ⚡          │ Hua Han                  │ +2349098677777 │ Restaurant │ 45c, Sobo Arobiodu Street, Lagos │ Not Contacted │
+│    │ Warm       │                          │                │            │                                  │               │
+│ 13 │ ⚡          │ Lokito Restaurant        │ +2349070949514 │ Restaurant │ Primewaterview Gardens II, Lekki │ Not Contacted │
+│    │ Warm       │                          │                │            │                                  │               │
+│ 14 │ ❄️         │ Mr Biggs                 │                │ Fast Food  │ Lagos                            │ Not Contacted │
+│    │ Cold       │                          │                │            │                                  │               │
+│ 15 │ ❄️         │ Meals On The Move        │                │ Fast Food  │ Lagos                            │ Not Contacted │
+│    │ Cold       │                          │                │            │                                  │               │
+│ 16 │ ❄️         │ Mama Cass                │                │ Restaurant │ Lagos                            │ Not Contacted │
+│    │ Cold       │                          │                │            │                                  │               │
+│ 17 │ ❄️         │ Tantalizers              │                │ Fast Food  │ Lagos                            │ Not Contacted │
+│    │ Cold       │                          │                │            │                                  │               │
+│ 18 │ ❄️         │ Cactus                   │                │ Restaurant │ Lagos                            │ Not Contacted │
+│    │ Cold       │                          │                │            │                                  │               │
+│ 19 │ ❄️         │ Mr. Bigs                 │                │ Restaurant │ Lagos                            │ Not Contacted │
+│    │ Cold       │                          │                │            │                                  │               │
+│ 20 │ ❄️         │ Kfc                      │                │ Fast Food  │ Lagos                            │ Not Contacted │
+│    │ Cold       │                          │                │            │                                  │               │
+╰────┴────────────┴──────────────────────────┴────────────────┴────────────┴──────────────────────────────────┴───────────────╯
